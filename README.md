@@ -133,4 +133,4 @@ Inspired by the "Vibe Coding" philosophy — building beautiful things without b
 
 ## License
 
-MIT — Use it, modify it, share it.
+MIT — Use it, modify it, share it. yeah
